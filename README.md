@@ -2,7 +2,7 @@
 
 ## Step 1: Clone this repository and change directory to the main folder.
 
-1. git clone https://github.com/cpoonkodi/PC022025.git
+1. git clone https://github.com/web-projects-cp/chart.git
 
 2. cd PC022025
 
